@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(https://cdn.create.vista.com/api/media/small/23860159/stock-vector-seamless-subtle-patterns-with-circle);
+    background-repeat: repeat;
+}
+
+.logo {
+    width: 10rem;
+}
+
+header {
+    border-bottom: 1px solid black;
+    background-color: black;
+}
+
+.fuentes {
+    font-size: 1.5rem;
+    padding: 2rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.fuentes li a:hover {
+    background-color: gray;
+    color: #fff;
+}
+
+#parrafoinicio {
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    text-transform: none;
+    font-weight: lighter;
+    margin-left: auto;
+    text-align: justify;
+    background-color: rgba(0, 0, 0, 0.76);
+    padding: 2rem;
+    margin-left: auto;
+    border-radius: 1rem;
+}
+
+.video {
+    size-adjust: auto;
+}
+
+#pie {
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+
+
+footer {
+    background-color: rgba(0, 0, 0);
+}
+
+.pie{
+    text-decoration: none;
+    color: rgb(245, 119, 17);
+    padding: 0px 20px;
+    font-weight:100;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.lista{
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.listapie{
+    text-align: center;
+}
+
+.nav {
+    color: white;
+}
+
+.titulonos1{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: rgb(245, 119, 17);
+    font-size: 40px;
+    margin-left: 200px;
+    font-weight: bolder;
+}
+
+.bloqueContacto{
+    background-color:  rgba(0, 0, 0, 0.76);
+    text-align: justify;
+    width: 40rem;
+position:center ;
+}
+
+.tituloContacto{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: rgb(245, 119, 17);
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.lineaContacto{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-align: center;
+    font-weight: lighter;
+    }
+
+
+.linea5cont{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: rgb(245, 119, 17);
+    font-size: 40px;
+    margin-left: 250px;
+}
+
+.parrafocontacto{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    text-transform: none;
+    font-weight: lighter;
+    margin-left: auto;
+    text-align: justify;
+    background-color: rgba(0, 0, 0, 0.76);
+    padding: 1rem;
+    align-content: center;
+}
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+.embed-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.tituloform1{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: rgb(245, 119, 17);
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+    margin: 1rem;
+}
+.tituloform2{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: center;
+    }
+
+#parrafoform{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size:15px;
+    text-transform:none;
+    font-weight: lighter;
+    text-align: justify;
+}
+
+.formularioEvento{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    text-transform: none;
+    font-weight: lighter;
+    margin: 4rem;
+    text-align: justify;
+    background-color: rgba(0, 0, 0, 0.76);
+    padding: 2rem;
+    align-content: center;
+
+}
+
+.colorBtn {
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    background-color: rgb(245, 119, 17);
+    color: black;
+    border-color: black;
+    font-weight: bolder;
+}
+
+.tituloClase{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(245, 119, 17);
+    text-align: center;
+    font-weight: bolder;
+    font-size: 2rem;
+    padding: 2rem;
+}
+
+.card {
+    margin: 0.5rem;
+    background-color: rgba(0, 0, 0, 0.76)    
+}
+
+.card-img-top{
+    padding: 0.5rem;
+    border-radius: 0.8rem;
+}
+
+.card-title{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color:rgb(245, 119, 17);
+    font-weight: bolder;
+}
+
+.card-text{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color:white;
+    font-weight:normal;
+
+}
+
+.card-price{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color:white;
+    font-weight:bolder;
+    font-size: larger;
+
+}
+
+.row{
+    margin: 1rem;
+}
+
+
